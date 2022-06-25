@@ -1,0 +1,144 @@
+.logo{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+}
+.list{
+    text-decoration:none;
+    justify-content: space-between;
+    padding-right: 150px;
+    
+
+} 
+li{
+    list-style: none;
+}
+.list li{
+    display: inline-block;
+    padding: 25px;
+    list-style: none;
+    
+    
+}
+.textcontainer{
+    display: flex;
+    background-color: aliceblue;
+    height: 500px;
+
+}
+.fruits{
+    padding-top: 100px;
+    width: 60%;
+    padding-left: 100px ;
+
+} 
+.image{
+    padding-top: 40px;
+}
+.paragraph3{
+    text-align: center;
+    justify-content: center;
+    
+    display: flex;
+}
+td{
+    border: 1px solid black;
+     height: 70px;
+     width: 250px;
+     padding-top: 50px;
+
+}
+.readmore{
+    text-align: center;
+     
+}
+.oranges{
+    display: flex;
+    
+    width: 100%;
+}  
+.orangepar{
+    width: 100%; 
+   
+}
+
+.orangepic{
+    padding-left: 600px;
+     
+    width: 29%; 
+}
+.buynow{
+    text-align: left;
+}
+.grapes{
+    display: flex;
+    
+    width: 100%;
+}  
+
+.grapespar{
+    width: 100%; 
+   
+}
+
+.grapespic{
+    padding-left: 600px;
+     
+    width: 29%; 
+}
+.buynow{
+    text-align: left;
+}
+.Guava{
+    display: flex;
+    
+    width: 100%;
+}  
+
+.guavapar{
+    width: 100%; 
+   
+}
+
+.guavapic{
+    padding-left: 600px;
+     
+    width: 29%; 
+}
+.buynow{
+    text-align: left;
+}
+.client{
+    display: flex;
+    justify-content: center;
+     
+
+}
+.clientdetail{
+    display: flex;
+    text-align: center;
+    padding-left: 700px;
+}
+.clientintro{
+    display: flex;
+    text-align: center;
+    padding-left: 300px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    padding-right: 600px;
+     
+
+     
+
+}
+ul{
+    list-style: none;
+} 
+
+.socials{
+    justify-content: center;
+}
+
